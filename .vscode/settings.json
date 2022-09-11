@@ -1,0 +1,25 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "notes-app",
+      "group": "developer-group",
+      "database": "companydb",
+      "username": "developer",
+      "password": "root123"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "notes-app",
+      "database": "notesapp",
+      "username": "developer",
+      "password": "root123"
+    }
+  ]
+}
